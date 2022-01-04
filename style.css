@@ -14,9 +14,24 @@ section{
 .half-width{
     width: 50%;
     padding-left:5%;
+    box-shadow: ;
 }
 .half-width img{
-    width: 80%;
-
+    width: 80%
 }
-section:flex;
+.experience flexible container{
+    width: 50%;
+    display: flex;
+}
+flexible container{
+    display: flex;
+}
+.Experiences{
+    padding-bottom: 20px;
+}
+.red{
+    color: orangered;
+}
+.deve{
+    box-shadow:10px 10px black;
+}
